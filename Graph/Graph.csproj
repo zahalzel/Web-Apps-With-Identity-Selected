@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Graph-8CB31AF1-5E57-4727-9D25-74B646AE6949</UserSecretsId>
+    <UserSecretsId>aspnet-Graph-6A90839C-5903-40A9-BCCE-B491FD315115</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
