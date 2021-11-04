@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "identityapp.aad1": {
+      "secretStore": "LocalSecretsFile",
+      "type": "identityapp.aad.downstreamapi",
+      "connectionId": "AzureAD:ClientSecret"
+    }
+  }
+}
