@@ -2,6 +2,7 @@
   "dependencies": {
     "identityapp.aad1": {
       "secretStore": "LocalSecretsFile",
+      "resourceId": null,
       "type": "identityapp.aad.callsgraph_api",
       "connectionId": "AzureAD:ClientSecret"
     }
